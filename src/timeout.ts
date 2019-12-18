@@ -1,6 +1,5 @@
 import "abortcontroller-polyfill";
 
-// https://10.255.255.1
 export default function timeout(
   c: AbortController,
   callback: CallableFunction,
