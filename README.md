@@ -2,6 +2,10 @@
 
 Simple react api fetcher written in Typescript
 
+## Install
+
+`npm i react-api-fetcher`
+
 ## Features
 
 - Support hook
