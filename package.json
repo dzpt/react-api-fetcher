@@ -7,6 +7,10 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzpt/react-api-fetcher.git"
+  },
   "devDependencies": {
     "@testing-library/react": "^9.2.0",
     "@testing-library/react-hooks": "^3.0.0",
