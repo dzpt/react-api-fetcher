@@ -1,6 +1,6 @@
 {
   "name": "react-api-fetcher",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react api fetcher using hook js native retry loading timeout",
   "main": "dist/index.js",
   "peerDependencies": {
